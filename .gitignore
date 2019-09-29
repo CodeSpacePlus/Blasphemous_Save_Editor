@@ -1,0 +1,10 @@
+/Backup
+/*.cpl
+/Exe
+/Groupware
+/History
+*.env
+*.waudit
+*.wdu
+*.WPF
+*.log

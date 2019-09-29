@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="12.852px" height="12.852px" viewBox="0 0 12.852 12.852" enable-background="new 0 0 12.852 12.852" xml:space="preserve">
+<g id="centre">
+	<g>
+		<radialGradient id="SVGID_1_" cx="5.2805" cy="5.386" r="4.8204" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#BD8F00"/>
+			<stop  offset="0.6061" style="stop-color:#580202"/>
+			<stop  offset="0.897" style="stop-color:#3F0101"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_1_)" cx="6.424" cy="6.425" r="5.075"/>
+	</g>
+	<g>
+		<g>
+			<radialGradient id="SVGID_2_" cx="6.425" cy="6.425" r="6.3003" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.98" style="stop-color:#580202"/>
+				<stop  offset="1" style="stop-color:#3F0101"/>
+			</radialGradient>
+			<path fill="url(#SVGID_2_)" d="M6.424,12.725c-3.473,0-6.299-2.826-6.299-6.301c0-3.474,2.826-6.3,6.299-6.3
+				c3.474,0,6.301,2.826,6.302,6.3C12.724,9.899,9.897,12.725,6.424,12.725z M6.423,1.302C3.605,1.307,1.307,3.606,1.302,6.425
+				c0.005,2.818,2.302,5.116,5.121,5.122c2.819-0.006,5.118-2.304,5.125-5.122C11.541,3.606,9.242,1.307,6.423,1.302L6.423,1.302z"
+				/>
+			<path fill="#1A171B" d="M6.424,0.25c3.405,0,6.176,2.77,6.177,6.175C12.599,9.83,9.829,12.6,6.424,12.6
+				C3.019,12.6,0.25,9.83,0.25,6.425C0.25,3.02,3.019,0.25,6.424,0.25 M6.423,11.672L6.423,11.672L6.423,11.672
+				c2.888-0.006,5.243-2.359,5.25-5.248c-0.007-2.887-2.361-5.241-5.25-5.248c-2.887,0.006-5.241,2.36-5.246,5.249
+				C1.182,9.312,3.536,11.666,6.423,11.672 M6.424,0C2.877,0,0,2.877,0,6.425s2.877,6.426,6.424,6.426
+				c3.549,0,6.426-2.878,6.427-6.426C12.849,2.877,9.972,0,6.424,0L6.424,0z M6.424,11.422c-2.759-0.006-4.991-2.237-4.996-4.997
+				c0.005-2.759,2.237-4.992,4.996-4.998c2.761,0.006,4.992,2.239,4.999,4.998C11.416,9.184,9.184,11.416,6.424,11.422L6.424,11.422
+				z"/>
+		</g>
+	</g>
+</g>
+</svg>
