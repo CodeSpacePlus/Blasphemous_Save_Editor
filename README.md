@@ -1,4 +1,4 @@
-# Blasphemous_Save_Editor
+# Blasphemous Save Editor
 Save editor for the game Blasphemous by The Game Kitchen
 
 ### These are the instructions for the v1.0 of this tool and could change on future versions.
