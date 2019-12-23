@@ -1,0 +1,156 @@
+{
+  "beads": [
+    {
+      "name": "DOVE_SKULL",
+      "source": "RB01"
+    },
+    {
+      "name": "EMBER_HOLY_CRBMATION",
+      "source": "RB02"
+    },
+    {
+      "name": "SILVER_GRAPES",
+      "source": "RB03"
+    },
+    {
+      "name": "UVULA_OF_PROCLAMATION",
+      "source": "RB04"
+    },
+    {
+      "name": "HOLLOW_PEARL",
+      "source": "RB05"
+    },
+    {
+      "name": "KNOT_OF_HAIR",
+      "source": "RB06"
+    },
+    {
+      "name": "PAINTED_WOOD_BEAD",
+      "source": "RB07"
+    },
+    {
+      "name": "PIECE_GOLDEN_MASK",
+      "source": "RB08"
+    },
+    {
+      "name": "MOSS_PRBSERVED_IN_GLASS",
+      "source": "RB09"
+    },
+    {
+      "name": "FROZEN_OLIVE",
+      "source": "RB10"
+    },
+    {
+      "name": "QUIRCE_SCORCHED_BEAD",
+      "source": "RB11"
+    },
+    {
+      "name": "WICKET_KNOT",
+      "source": "RB12"
+    },
+    {
+      "name": "PERPETUAS_PROTECTION",
+      "source": "RB13"
+    },
+    {
+      "name": "THORNED_SYMBOL",
+      "source": "RB14"
+    },
+    {
+      "name": "PIECE_OF_TOMBSTONE",
+      "source": "RB15"
+    },
+    {
+      "name": "SPHERB_SACRBD_SMOKE",
+      "source": "RB16"
+    },
+    {
+      "name": "SMALL_BEAD_RBD_WAX",
+      "source": "RB17"
+    },
+    {
+      "name": "MEDIUM_BEAD_RBD_WAX",
+      "source": "RB18"
+    },
+    {
+      "name": "BIG_BEAD_RBD_WAX",
+      "source": "RB19"
+    },
+    {
+      "name": "LITTLE_TOE_OF_LIMESTONE",
+      "source": "RB20"
+    },
+    {
+      "name": "BIG_TOE_OF_LIMESTONE",
+      "source": "RB21"
+    },
+    {
+      "name": "FOURTH_TOE_OF_LIMESTONE",
+      "source": "RB22"
+    },
+    {
+      "name": "SMALL_BEAD_BLUE_WAX",
+      "source": "RB24"
+    },
+    {
+      "name": "MEDIUM_BEAD_BLUE_WAX",
+      "source": "RB25"
+    },
+    {
+      "name": "BIG_BEAD_BLUE_WAX",
+      "source": "RB26"
+    },
+    {
+      "name": "PELICAN_EFFIGY",
+      "source": "RB28"
+    },
+    {
+      "name": "DROP_COAGULATED_INK",
+      "source": "RB30"
+    },
+    {
+      "name": "AMBER_EYE",
+      "source": "RB31"
+    },
+    {
+      "name": "MUTED_BELL",
+      "source": "RB32"
+    },
+    {
+      "name": "CONSECRATED_AMETHYST",
+      "source": "RB33"
+    },
+    {
+      "name": "EMBERS_BROKEN_STAR",
+      "source": "RB34"
+    },
+    {
+      "name": "SCALY_COIN",
+      "source": "RB35"
+    },
+    {
+      "name": "SEASHELL_INVERTED_COIL",
+      "source": "RB36"
+    },
+    {
+      "name": "CALCIFIED_EYE_ERUDITION",
+      "source": "RB37"
+    },
+    {
+      "name": "IMMACULATE_BEAD",
+      "source": "RB38"
+    },
+    {
+      "name": "MARKED_BEAD",
+      "source": "RB39"
+    },
+    {
+      "name": "TAINTED_BEAD",
+      "source": "RB40"
+    },
+    {
+      "name": "WEIGHT_OF_TRUE_GUILT",
+      "source": "RB41"
+    }
+  ]
+}

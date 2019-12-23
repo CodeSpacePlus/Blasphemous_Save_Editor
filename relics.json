@@ -1,0 +1,28 @@
+{
+  "relics": [
+    {
+      "name": "BLOOD_PERPETUATED_SAND",
+      "source": "RE01"
+    },
+    {
+      "name": "INCORRUPT_HAND_FRATERNAL_MASTER",
+      "source": "RE02"
+    },
+    {
+      "name": "NAIL_UPROOTED_FROM_DIRT",
+      "source": "RE03"
+    },
+    {
+      "name": "SHROUD_DREAMT_SINS",
+      "source": "RE04"
+    },
+    {
+      "name": "LINEN_OF_GOLDEN_THREAD",
+      "source": "RE05"
+    },
+    {
+      "name": "SILVER_LUNG_OF_DOLPHOS",
+      "source": "RE07"
+    }
+  ]
+}

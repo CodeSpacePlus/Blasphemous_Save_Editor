@@ -1,0 +1,88 @@
+{
+  "zones_domains": [
+    {
+      "name": "BROTHEHOOD_SILENT_SORROW",
+      "source": "D17_Z01"
+    },
+    {
+      "name": "THE_HOLY_LINE",
+      "source": "D01_Z01"
+    },
+    {
+      "name": "ALBERO",
+      "source": "D01_Z02"
+    },
+    {
+      "name": "WASTELAND_BURIED_CHURCHES",
+      "source": "D01_Z03"
+    },
+    {
+      "name": "MERCY_DREAMS",
+      "source": "D01_Z04"
+    },
+    {
+      "name": "DESECRATED_CISTERN",
+      "source": "D01_Z05"
+    },
+    {
+      "name": "WHERE_OLIVE_TREES_WITHER",
+      "source": "D02_Z01"
+    },
+    {
+      "name": "GRAVEYARD_PEAKS",
+      "source": "D02_Z02"
+    },
+    {
+      "name": "CONVENT_LADY_CHARRED_VISAGE",
+      "source": "D02_Z03"
+    },
+    {
+      "name": "MOUNTAINS_ENDLESS_DUSK",
+      "source": "D03_Z01"
+    },
+    {
+      "name": "JONDO",
+      "source": "D03_Z02"
+    },
+    {
+      "name": "GRIEVANCE_ASCENDS",
+      "source": "D03_Z03"
+    },
+    {
+      "name": "PATIO_SILENT_STEPS",
+      "source": "D04_Z01"
+    },
+    {
+      "name": "MOTHER_OF_MOTHERS",
+      "source": "D04_Z02"
+    },
+    {
+      "name": "KNOT_THREE_WORDS",
+      "source": "D04_Z03"
+    },
+    {
+      "name": "LIBRARY_NEGATED_WORDS",
+      "source": "D05_Z01"
+    },
+    {
+      "name": "SLEEPING_CANVASES",
+      "source": "D05_Z02"
+    },
+    {
+      "name": "ARCHCHATHREDAL_ROOFTOPS",
+      "source": "D06_Z01"
+    },
+    {
+      "name": "DEAMBULOTARY_OF_HIS_HOLINESS",
+      "source": "D07_Z01"
+    },
+    {
+      "name": "BRIDGE_THREE_CALVARIES",
+      "source": "D08_Z01"
+    },
+    {
+      "name": "WALL_HOLY_PROHIBITION",
+      "source": "D09_Z01"
+    }
+  ]
+}

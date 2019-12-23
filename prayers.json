@@ -1,0 +1,56 @@
+{
+  "prayers": [
+    {
+      "name": "SEGUIRIVA_EYES_LIKE_STARS",
+      "source": "PR01"
+    },
+    {
+      "name": "DEBLA_OF_THE_LIGHTS",
+      "source": "PR03"
+    },
+    {
+      "name": "SAETA_DOLOROSA",
+      "source": "PR04"
+    },
+    {
+      "name": "CAMPANILLERO_SONS_OF_AURORA",
+      "source": "PR05"
+    },
+    {
+      "name": "LORQUIANA",
+      "source": "PR07"
+    },
+    {
+      "name": "SARABANDA_SAFE_HAVEN",
+      "source": "PR08"
+    },
+    {
+      "name": "TARANTO_MY_SISTER",
+      "source": "PR09"
+    },
+    {
+      "name": "SOLEA_OF_EXCOMUNNICATION",
+      "source": "PR10"
+    },
+    {
+      "name": "TIENTO_THORNED_HAIR",
+      "source": "PR11"
+    },
+    {
+      "name": "CANTE_JONDO_THREE_SISTERS",
+      "source": "PR12"
+    },
+    {
+      "name": "VERDIALES_FORSAKEN_HAMLET",
+      "source": "PR14"
+    },
+    {
+      "name": "ROMANCE_CRIMSON_MIST",
+      "source": "PR15"
+    },
+    {
+      "name": "ZAMBRA_RESPLENDENT_CROWN",
+      "source": "PR16"
+    }
+  ]
+}

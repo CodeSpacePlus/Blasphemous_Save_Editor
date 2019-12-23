@@ -1,0 +1,36 @@
+{
+  "quest_item": [
+    {
+      "name": "HOLY_WOUND_ATTRITION",
+      "source": "QI38"
+    },
+    {
+      "name": "HOLY_WOUND_CONTRITION",
+      "source": "QI39"
+    },
+    {
+      "name": "HOLY_WOUND_COMPUNCTION",
+      "source": "QI40"
+    },
+    {
+      "name": "KEY_CHAMBER_ELDEST_BROTHER",
+      "source": "QI58"
+    },
+    {
+      "name": "KEY_SECULAR",
+      "source": "QI69"
+    },
+    {
+      "name": "KEY_SCRIBE",
+      "source": "QI70"
+    },
+    {
+      "name": "KEY_INQUISITOR",
+      "source": "QI71"
+    },
+    {
+      "name": "CVSTODIA_OF_SIN",
+      "source": "QI81"
+    }
+  ]
+}

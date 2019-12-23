@@ -1,0 +1,40 @@
+{
+  "hearts": [
+    {
+      "name": "SMOKING_HEART_OF_INCENSE",
+      "source": "HE01"
+    },
+    {
+      "name": "HEART_VIRTOUS_PAIN",
+      "source": "HE02"
+    },
+    {
+      "name": "HEART_SATLPETER_BLOOD",
+      "source": "HE03"
+    },
+    {
+      "name": "HEART_OF_OILS",
+      "source": "HE04"
+    },
+    {
+      "name": "HEART_OF_CERULEAN_INCESE",
+      "source": "HE05"
+    },
+    {
+      "name": "HEART_HOLY_PURGE",
+      "source": "HE06"
+    },
+    {
+      "name": "MOLTEN_HEART_BOILING_BLOOD",
+      "source": "HE07"
+    },
+    {
+      "name": "HEART_OF_THE_SINGLE_TONE",
+      "source": "HE10"
+    },
+    {
+      "name": "HEART_UNNAMED_MINSTREL",
+      "source": "HE11"
+    }
+  ]
+}
