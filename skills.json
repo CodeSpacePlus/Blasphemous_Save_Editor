@@ -1,0 +1,64 @@
+{
+  "skills": [
+    {
+      "name": "Sinful Wrath",
+      "source": "CHARGED_1"
+    },
+    {
+      "name": "Holy Wrath",
+      "source": "CHARGED_2"
+    },
+    {
+      "name": "Wrath of the Twisted Ones",
+      "source": "CHARGED_3"
+    },
+    {
+      "name": "Last Words",
+      "source": "COMBO_1"
+    },
+    {
+      "name": "Ascending Edge",
+      "source": "COMBO_2"
+    },
+    {
+      "name": "Azure Cyclone",
+      "source": "COMBO_3"
+    },
+    {
+      "name": "Sacred Thrust",
+      "source": "LUNGE_1"
+    },
+    {
+      "name": "Sacred Lunge",
+      "source": "LUNGE_2"
+    },
+    {
+      "name": "Sacred Onslaught",
+      "source": "LUNGE_3"
+    },
+    {
+      "name": "Fervorous Blood",
+      "source": "RANGED_1"
+    },
+    {
+      "name": "Sacred Blood",
+      "source": "RANGED_2"
+    },
+    {
+      "name": "Bleeding Miracle",
+      "source": "RANGED_3"
+    },
+    {
+      "name": "Weight of Sin",
+      "source": "VERTICAL_1"
+    },
+    {
+      "name": "Weight of Justice",
+      "source": "VERTICAL_2"
+    },
+    {
+      "name": "Consecration",
+      "source": "VERTICAL_3"
+    }
+  ]
+}
