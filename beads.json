@@ -5,7 +5,7 @@
       "source": "RB01"
     },
     {
-      "name": "EMBER_HOLY_CRBMATION",
+      "name": "EMBER_HOLY_CREMATION",
       "source": "RB02"
     },
     {
@@ -33,7 +33,7 @@
       "source": "RB08"
     },
     {
-      "name": "MOSS_PRBSERVED_IN_GLASS",
+      "name": "MOSS_PRESERVED_IN_GLASS",
       "source": "RB09"
     },
     {
@@ -61,19 +61,19 @@
       "source": "RB15"
     },
     {
-      "name": "SPHERB_SACRBD_SMOKE",
+      "name": "SPHERE_SACRED_SMOKE",
       "source": "RB16"
     },
     {
-      "name": "SMALL_BEAD_RBD_WAX",
+      "name": "SMALL_BEAD_RED_WAX",
       "source": "RB17"
     },
     {
-      "name": "MEDIUM_BEAD_RBD_WAX",
+      "name": "MEDIUM_BEAD_RED_WAX",
       "source": "RB18"
     },
     {
-      "name": "BIG_BEAD_RBD_WAX",
+      "name": "BIG_BEAD_RED_WAX",
       "source": "RB19"
     },
     {

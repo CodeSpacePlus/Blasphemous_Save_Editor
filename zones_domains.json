@@ -1,7 +1,7 @@
 {
   "zones_domains": [
     {
-      "name": "BROTHEHOOD_SILENT_SORROW",
+      "name": "BROTHEHOOD_OF_THE_SILENT_SORROW",
       "source": "D17_Z01"
     },
     {
@@ -13,7 +13,7 @@
       "source": "D01_Z02"
     },
     {
-      "name": "WASTELAND_BURIED_CHURCHES",
+      "name": "WASTELAND_OF_THE_BURIED_CHURCHES",
       "source": "D01_Z03"
     },
     {
@@ -29,15 +29,15 @@
       "source": "D02_Z01"
     },
     {
-      "name": "GRAVEYARD_PEAKS",
+      "name": "GRAVEYARD_OF_THE_PEAKS",
       "source": "D02_Z02"
     },
     {
-      "name": "CONVENT_LADY_CHARRED_VISAGE",
+      "name": "CONVENT_OF_OUR_LADY_OF_THE_CHARRED_VISAGE",
       "source": "D02_Z03"
     },
     {
-      "name": "MOUNTAINS_ENDLESS_DUSK",
+      "name": "MOUNTAINS_OF_THE_ENDLESS_DUSK",
       "source": "D03_Z01"
     },
     {
@@ -49,7 +49,7 @@
       "source": "D03_Z03"
     },
     {
-      "name": "PATIO_SILENT_STEPS",
+      "name": "PATIO_OF_THE_SILENT_STEPS",
       "source": "D04_Z01"
     },
     {
@@ -57,15 +57,15 @@
       "source": "D04_Z02"
     },
     {
-      "name": "KNOT_THREE_WORDS",
+      "name": "KNOT_OF_THE_THREE_WORDS",
       "source": "D04_Z03"
     },
     {
-      "name": "LIBRARY_NEGATED_WORDS",
+      "name": "LIBRARY_OF_THE_NEGATED_WORDS",
       "source": "D05_Z01"
     },
     {
-      "name": "SLEEPING_CANVASES",
+      "name": "THE_SLEEPING_CANVASES",
       "source": "D05_Z02"
     },
     {
@@ -77,11 +77,11 @@
       "source": "D07_Z01"
     },
     {
-      "name": "BRIDGE_THREE_CALVARIES",
+      "name": "BRIDGE_OF_THE_THREE_CALVARIES",
       "source": "D08_Z01"
     },
     {
-      "name": "WALL_HOLY_PROHIBITION",
+      "name": "WALL_OF_THE_HOLY_PROHIBITION",
       "source": "D09_Z01"
     }
   ]
