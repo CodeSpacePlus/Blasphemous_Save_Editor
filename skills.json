@@ -1,23 +1,23 @@
 {
   "skills": [
     {
-      "name": "Sinful Wrath",
+      "name": "SINFUL WRATH",
       "source": "CHARGED_1"
     },
     {
-      "name": "Holy Wrath",
+      "name": "HOLY WRATH",
       "source": "CHARGED_2"
     },
     {
-      "name": "Wrath of the Twisted Ones",
+      "name": "WRATH OF THE TWISTED ONES",
       "source": "CHARGED_3"
     },
     {
-      "name": "Last Words",
+      "name": "LAST WORDS",
       "source": "COMBO_1"
     },
     {
-      "name": "Ascending Edge",
+      "name": "ASCENDING EDGE",
       "source": "COMBO_2"
     },
     {
@@ -25,39 +25,39 @@
       "source": "COMBO_3"
     },
     {
-      "name": "Sacred Thrust",
+      "name": "SACRED THRUSt",
       "source": "LUNGE_1"
     },
     {
-      "name": "Sacred Lunge",
+      "name": "SACRED LUNGE",
       "source": "LUNGE_2"
     },
     {
-      "name": "Sacred Onslaught",
+      "name": "SACRED ONSLAUGHT",
       "source": "LUNGE_3"
     },
     {
-      "name": "Fervorous Blood",
+      "name": "FERVOROUS BLOOD",
       "source": "RANGED_1"
     },
     {
-      "name": "Sacred Blood",
+      "name": "SACRED BLOOD",
       "source": "RANGED_2"
     },
     {
-      "name": "Bleeding Miracle",
+      "name": "BLEEDING MIRACLE",
       "source": "RANGED_3"
     },
     {
-      "name": "Weight of Sin",
+      "name": "WEIGHT OF SIN",
       "source": "VERTICAL_1"
     },
     {
-      "name": "Weight of Justice",
+      "name": "WEIGHT OF JUSTICE",
       "source": "VERTICAL_2"
     },
     {
-      "name": "Consecration",
+      "name": "CONSECRATION",
       "source": "VERTICAL_3"
     }
   ]
