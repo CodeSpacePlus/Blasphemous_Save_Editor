@@ -2,55 +2,68 @@
   "prayers": [
     {
       "name": "SEGUIRIVA_EYES_LIKE_STARS",
-      "source": "PR01"
+      "source": "PR01",
+      "wiki": "https://blasphemous.fandom.com/wiki/Seguiriya_to_your_Eyes_like_Stars"
     },
     {
       "name": "DEBLA_OF_THE_LIGHTS",
-      "source": "PR03"
+      "source": "PR03",
+      "wiki": "https://blasphemous.fandom.com/wiki/Debla_of_the_Lights"
     },
     {
       "name": "SAETA_DOLOROSA",
-      "source": "PR04"
+      "source": "PR04",
+      "wiki": "https://blasphemous.fandom.com/wiki/Saeta_Dolorosa"
     },
     {
       "name": "CAMPANILLERO_SONS_OF_AURORA",
-      "source": "PR05"
+      "source": "PR05",
+      "wiki": "https://blasphemous.fandom.com/wiki/Campanillero_to_the_Sons_of_the_Aurora"
     },
     {
       "name": "LORQUIANA",
-      "source": "PR07"
+      "source": "PR07",
+      "wiki": "https://blasphemous.fandom.com/wiki/Lorquiana"
     },
     {
-      "name": "SARABANDA_SAFE_HAVEN",
-      "source": "PR08"
+      "name": "ZARABANDA_SAFE_HAVEN",
+      "source": "PR08",
+      "wiki": "https://blasphemous.fandom.com/wiki/Zarabanda_of_the_Safe_Haven"
     },
     {
       "name": "TARANTO_MY_SISTER",
-      "source": "PR09"
+      "source": "PR09",
+      "wiki": "https://blasphemous.fandom.com/wiki/Taranto_to_My_Sister"
     },
     {
       "name": "SOLEA_OF_EXCOMUNNICATION",
-      "source": "PR10"
+      "source": "PR10",
+      "wiki": "https://blasphemous.fandom.com/wiki/Solea_of_Excommunication"
     },
     {
       "name": "TIENTO_THORNED_HAIR",
-      "source": "PR11"
+      "source": "PR11",
+      "wiki": "https://blasphemous.fandom.com/wiki/Tiento_to_your_Thorned_Hairs"
     },
     {
       "name": "CANTE_JONDO_THREE_SISTERS",
-      "source": "PR12"
+      "source": "PR12",
+      "wiki": "https://blasphemous.fandom.com/wiki/Cante_Jondo_of_the_Three_Sisters"
     },
     {
       "name": "VERDIALES_FORSAKEN_HAMLET",
-      "source": "PR14"
+      "source": "PR14",
+      "wiki": "https://blasphemous.fandom.com/wiki/Verdiales_of_the_Forsaken_Hamlet"
     },
     {
       "name": "ROMANCE_CRIMSON_MIST",
-      "source": "PR15"
+      "source": "PR15",
+      "wiki": "https://blasphemous.fandom.com/wiki/Romance_to_the_Crimson_Mist"
     },
     {
       "name": "ZAMBRA_RESPLENDENT_CROWN",
-      "source": "PR16"
+      "source": "PR16",
+      "wiki": "https://blasphemous.fandom.com/wiki/Zambra_to_the_Resplendent_Crown"
     }
   ]
 }

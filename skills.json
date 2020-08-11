@@ -2,63 +2,78 @@
   "skills": [
     {
       "name": "SINFUL WRATH",
-      "source": "CHARGED_1"
+      "source": "CHARGED_1",
+      "wiki": ""
     },
     {
       "name": "HOLY WRATH",
-      "source": "CHARGED_2"
+      "source": "CHARGED_2",
+      "wiki": ""
     },
     {
       "name": "WRATH OF THE TWISTED ONES",
-      "source": "CHARGED_3"
+      "source": "CHARGED_3",
+      "wiki": ""
     },
     {
       "name": "LAST WORDS",
-      "source": "COMBO_1"
+      "source": "COMBO_1",
+      "wiki": ""
     },
     {
       "name": "ASCENDING EDGE",
-      "source": "COMBO_2"
+      "source": "COMBO_2",
+      "wiki": ""
     },
     {
       "name": "Azure Cyclone",
-      "source": "COMBO_3"
+      "source": "COMBO_3",
+      "wiki": ""
     },
     {
       "name": "SACRED THRUSt",
-      "source": "LUNGE_1"
+      "source": "LUNGE_1",
+      "wiki": ""
     },
     {
       "name": "SACRED LUNGE",
-      "source": "LUNGE_2"
+      "source": "LUNGE_2",
+      "wiki": ""
     },
     {
       "name": "SACRED ONSLAUGHT",
-      "source": "LUNGE_3"
+      "source": "LUNGE_3",
+      "wiki": ""
     },
     {
       "name": "FERVOROUS BLOOD",
-      "source": "RANGED_1"
+      "source": "RANGED_1",
+      "wiki": ""
     },
     {
       "name": "SACRED BLOOD",
-      "source": "RANGED_2"
+      "source": "RANGED_2",
+      "wiki": ""
     },
     {
       "name": "BLEEDING MIRACLE",
-      "source": "RANGED_3"
+      "source": "RANGED_3",
+      "wiki": ""
     },
     {
       "name": "WEIGHT OF SIN",
-      "source": "VERTICAL_1"
+      "source": "VERTICAL_1",
+      "wiki": ""
     },
     {
       "name": "WEIGHT OF JUSTICE",
-      "source": "VERTICAL_2"
+      "source": "VERTICAL_2",
+      "wiki": ""
     },
     {
       "name": "CONSECRATION",
-      "source": "VERTICAL_3"
+      "source": "VERTICAL_3",
+      "wiki": ""
     }
   ]
 }

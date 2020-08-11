@@ -2,87 +2,108 @@
   "zones_domains": [
     {
       "name": "BROTHEHOOD_OF_THE_SILENT_SORROW",
-      "source": "D17_Z01"
+      "source": "D17_Z01",
+      "scenes": 11
     },
     {
       "name": "THE_HOLY_LINE",
-      "source": "D01_Z01"
+      "source": "D01_Z01",
+      "scenes": 5
     },
     {
       "name": "ALBERO",
-      "source": "D01_Z02"
+      "source": "D01_Z02",
+      "scenes": 7
     },
     {
       "name": "WASTELAND_OF_THE_BURIED_CHURCHES",
-      "source": "D01_Z03"
+      "source": "D01_Z03",
+      "scenes": 7
     },
     {
       "name": "MERCY_DREAMS",
-      "source": "D01_Z04"
+      "source": "D01_Z04",
+      "scenes": 19
     },
     {
       "name": "DESECRATED_CISTERN",
-      "source": "D01_Z05"
+      "source": "D01_Z05",
+      "scenes": 25
     },
     {
       "name": "WHERE_OLIVE_TREES_WITHER",
-      "source": "D02_Z01"
+      "source": "D02_Z01",
+      "scenes": 9
     },
     {
       "name": "GRAVEYARD_OF_THE_PEAKS",
-      "source": "D02_Z02"
+      "source": "D02_Z02",
+      "scenes": 14
     },
     {
       "name": "CONVENT_OF_OUR_LADY_OF_THE_CHARRED_VISAGE",
-      "source": "D02_Z03"
+      "source": "D02_Z03",
+      "scenes": 20
     },
     {
       "name": "MOUNTAINS_OF_THE_ENDLESS_DUSK",
-      "source": "D03_Z01"
+      "source": "D03_Z01",
+      "scenes": 6
     },
     {
       "name": "JONDO",
-      "source": "D03_Z02"
+      "source": "D03_Z02",
+      "scenes": 14
     },
     {
       "name": "GRIEVANCE_ASCENDS",
-      "source": "D03_Z03"
+      "source": "D03_Z03",
+      "scenes": 19
     },
     {
       "name": "PATIO_OF_THE_SILENT_STEPS",
-      "source": "D04_Z01"
+      "source": "D04_Z01",
+      "scenes": 4
     },
     {
       "name": "MOTHER_OF_MOTHERS",
-      "source": "D04_Z02"
+      "source": "D04_Z02",
+      "scenes": 20
     },
     {
       "name": "KNOT_OF_THE_THREE_WORDS",
-      "source": "D04_Z03"
+      "source": "D04_Z03",
+      "scenes": 1
     },
     {
       "name": "LIBRARY_OF_THE_NEGATED_WORDS",
-      "source": "D05_Z01"
+      "source": "D05_Z01",
+      "scenes": 22
     },
     {
       "name": "THE_SLEEPING_CANVASES",
-      "source": "D05_Z02"
+      "source": "D05_Z02",
+      "scenes": 14
     },
     {
       "name": "ARCHCHATHREDAL_ROOFTOPS",
-      "source": "D06_Z01"
+      "source": "D06_Z01",
+      "scenes": 28
     },
     {
       "name": "DEAMBULOTARY_OF_HIS_HOLINESS",
-      "source": "D07_Z01"
+      "source": "D07_Z01",
+      "scenes": 3
     },
     {
       "name": "BRIDGE_OF_THE_THREE_CALVARIES",
-      "source": "D08_Z01"
+      "source": "D08_Z01",
+      "scenes": 2
     },
     {
       "name": "WALL_OF_THE_HOLY_PROHIBITION",
-      "source": "D09_Z01"
+      "source": "D09_Z01",
+      "scenes": 14
     }
   ]
 }

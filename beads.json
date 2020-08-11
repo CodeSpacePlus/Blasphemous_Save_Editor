@@ -2,155 +2,193 @@
   "beads": [
     {
       "name": "DOVE_SKULL",
-      "source": "RB01"
+      "source": "RB01",
+      "wiki": "https://blasphemous.fandom.com/wiki/Dove_Skull"
     },
     {
       "name": "EMBER_HOLY_CREMATION",
-      "source": "RB02"
+      "source": "RB02",
+      "wiki": "https://blasphemous.fandom.com/wiki/Ember_of_the_Holy_Cremation"
     },
     {
       "name": "SILVER_GRAPES",
-      "source": "RB03"
+      "source": "RB03",
+      "wiki": "https://blasphemous.fandom.com/wiki/Silver_Grape"
     },
     {
       "name": "UVULA_OF_PROCLAMATION",
-      "source": "RB04"
+      "source": "RB04",
+      "wiki": "https://blasphemous.fandom.com/wiki/Uvula_of_Proclamation"
     },
     {
       "name": "HOLLOW_PEARL",
-      "source": "RB05"
+      "source": "RB05",
+      "wiki": "https://blasphemous.fandom.com/wiki/Hollow_Pearl"
     },
     {
       "name": "KNOT_OF_HAIR",
-      "source": "RB06"
+      "source": "RB06",
+      "wiki": "https://blasphemous.fandom.com/wiki/Knot_of_Hair"
     },
     {
       "name": "PAINTED_WOOD_BEAD",
-      "source": "RB07"
+      "source": "RB07",
+      "wiki": "https://blasphemous.fandom.com/wiki/Painted_Wood_Bead"
     },
     {
       "name": "PIECE_GOLDEN_MASK",
-      "source": "RB08"
+      "source": "RB08",
+      "wiki": "https://blasphemous.fandom.com/wiki/Piece_of_a_Golden_Mask"
     },
     {
       "name": "MOSS_PRESERVED_IN_GLASS",
-      "source": "RB09"
+      "source": "RB09",
+      "wiki": "https://blasphemous.fandom.com/wiki/Moss_Preserved_in_Glass"
     },
     {
       "name": "FROZEN_OLIVE",
-      "source": "RB10"
+      "source": "RB10",
+      "wiki": "https://blasphemous.fandom.com/wiki/Frozen_Olive"
     },
     {
       "name": "QUIRCE_SCORCHED_BEAD",
-      "source": "RB11"
+      "source": "RB11",
+      "wiki": "https://blasphemous.fandom.com/wiki/Quirce%27s_Scorched_Bead"
     },
     {
       "name": "WICKET_KNOT",
-      "source": "RB12"
+      "source": "RB12",
+      "wiki": "https://blasphemous.fandom.com/wiki/Wicker_Knot"
     },
     {
       "name": "PERPETUAS_PROTECTION",
-      "source": "RB13"
+      "source": "RB13",
+      "wiki": "https://blasphemous.fandom.com/wiki/Perpetva%27s_Protection"
     },
     {
       "name": "THORNED_SYMBOL",
-      "source": "RB14"
+      "source": "RB14",
+      "wiki": "https://blasphemous.fandom.com/wiki/Thorned_Symbol"
     },
     {
       "name": "PIECE_OF_TOMBSTONE",
-      "source": "RB15"
+      "source": "RB15",
+      "wiki": "https://blasphemous.fandom.com/wiki/Piece_of_a_Tombstone"
     },
     {
       "name": "SPHERE_SACRED_SMOKE",
-      "source": "RB16"
+      "source": "RB16",
+      "wiki": "https://blasphemous.fandom.com/wiki/Sphere_of_the_Sacred_Smoke"
     },
     {
       "name": "SMALL_BEAD_RED_WAX",
-      "source": "RB17"
+      "source": "RB17",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Red_Wax"
     },
     {
       "name": "MEDIUM_BEAD_RED_WAX",
-      "source": "RB18"
+      "source": "RB18",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Red_Wax"
     },
     {
       "name": "BIG_BEAD_RED_WAX",
-      "source": "RB19"
+      "source": "RB19",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Red_Wax"
     },
     {
       "name": "LITTLE_TOE_OF_LIMESTONE",
-      "source": "RB20"
+      "source": "RB20",
+      "wiki": "https://blasphemous.fandom.com/wiki/Little_Toe_Made_of_Limestone"
     },
     {
       "name": "BIG_TOE_OF_LIMESTONE",
-      "source": "RB21"
+      "source": "RB21",
+      "wiki": "https://blasphemous.fandom.com/wiki/Big_Toe_Made_of_Limestone"
     },
     {
       "name": "FOURTH_TOE_OF_LIMESTONE",
-      "source": "RB22"
+      "source": "RB22",
+      "wiki": "https://blasphemous.fandom.com/wiki/Fourth_Toe_Made_of_Limestone"
     },
     {
       "name": "SMALL_BEAD_BLUE_WAX",
-      "source": "RB24"
+      "source": "RB24",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Blue_Wax"
     },
     {
       "name": "MEDIUM_BEAD_BLUE_WAX",
-      "source": "RB25"
+      "source": "RB25",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Blue_Wax"
     },
     {
       "name": "BIG_BEAD_BLUE_WAX",
-      "source": "RB26"
+      "source": "RB26",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Blue_Wax"
     },
     {
       "name": "PELICAN_EFFIGY",
-      "source": "RB28"
+      "source": "RB28",
+      "wiki": "https://blasphemous.fandom.com/wiki/Pelican_Effigy"
     },
     {
       "name": "DROP_COAGULATED_INK",
-      "source": "RB30"
+      "source": "RB30",
+      "wiki": "https://blasphemous.fandom.com/wiki/Drop_of_Coagulated_Ink"
     },
     {
       "name": "AMBER_EYE",
-      "source": "RB31"
+      "source": "RB31",
+      "wiki": "https://blasphemous.fandom.com/wiki/Amber_Eye"
     },
     {
       "name": "MUTED_BELL",
-      "source": "RB32"
+      "source": "RB32",
+      "wiki": "https://blasphemous.fandom.com/wiki/Muted_Bell"
     },
     {
       "name": "CONSECRATED_AMETHYST",
-      "source": "RB33"
+      "source": "RB33",
+      "wiki": "https://blasphemous.fandom.com/wiki/Consecrated_Amethyst"
     },
     {
       "name": "EMBERS_BROKEN_STAR",
-      "source": "RB34"
+      "source": "RB34",
+      "wiki": "https://blasphemous.fandom.com/wiki/Embers_of_a_Broken_Star"
     },
     {
       "name": "SCALY_COIN",
-      "source": "RB35"
+      "source": "RB35",
+      "wiki": "https://blasphemous.fandom.com/wiki/Scaly_Coin"
     },
     {
       "name": "SEASHELL_INVERTED_COIL",
-      "source": "RB36"
+      "source": "RB36",
+      "wiki": "https://blasphemous.fandom.com/wiki/Seashell_of_the_Inverted_Spiral"
     },
     {
       "name": "CALCIFIED_EYE_ERUDITION",
-      "source": "RB37"
+      "source": "RB37",
+      "wiki": "https://blasphemous.fandom.com/wiki/Calcified_Eye_of_Erudition"
     },
     {
       "name": "IMMACULATE_BEAD",
-      "source": "RB38"
+      "source": "RB38",
+      "wiki": "https://blasphemous.fandom.com/wiki/Immaculate_Bead"
     },
     {
       "name": "MARKED_BEAD",
-      "source": "RB39"
+      "source": "RB39",
+      "wiki": "https://blasphemous.fandom.com/wiki/Immaculate_Bead"
     },
     {
       "name": "TAINTED_BEAD",
-      "source": "RB40"
+      "source": "RB40",
+      "wiki": "https://blasphemous.fandom.com/wiki/Immaculate_Bead"
     },
     {
       "name": "WEIGHT_OF_TRUE_GUILT",
-      "source": "RB41"
+      "source": "RB41",
+      "wiki": "https://blasphemous.fandom.com/wiki/Immaculate_Bead"
     }
   ]
 }

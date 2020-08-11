@@ -2,39 +2,48 @@
   "hearts": [
     {
       "name": "SMOKING_HEART_OF_INCENSE",
-      "source": "HE01"
+      "source": "HE01",
+      "wiki": "https://blasphemous.fandom.com/wiki/Smoking_Heart_of_Incense"
     },
     {
       "name": "HEART_VIRTOUS_PAIN",
-      "source": "HE02"
+      "source": "HE02",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_Virtuous_Pain"
     },
     {
       "name": "HEART_SATLPETER_BLOOD",
-      "source": "HE03"
+      "source": "HE03",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_Saltpeter_Blood"
     },
     {
       "name": "HEART_OF_OILS",
-      "source": "HE04"
+      "source": "HE04",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_Oils"
     },
     {
       "name": "HEART_OF_CERULEAN_INCESE",
-      "source": "HE05"
+      "source": "HE05",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_Cerulean_Incense"
     },
     {
       "name": "HEART_HOLY_PURGE",
-      "source": "HE06"
+      "source": "HE06",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_the_Holy_Purge"
     },
     {
       "name": "MOLTEN_HEART_BOILING_BLOOD",
-      "source": "HE07"
+      "source": "HE07",
+      "wiki": "https://blasphemous.fandom.com/wiki/Molten_Heart_of_Boiling_Blood"
     },
     {
       "name": "HEART_OF_THE_SINGLE_TONE",
-      "source": "HE10"
+      "source": "HE10",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_the_Single_Tone"
     },
     {
       "name": "HEART_UNNAMED_MINSTREL",
-      "source": "HE11"
+      "source": "HE11",
+      "wiki": "https://blasphemous.fandom.com/wiki/Heart_of_the_Unnamed_Minstrel"
     }
   ]
 }

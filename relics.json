@@ -2,31 +2,38 @@
   "relics": [
     {
       "name": "BLOOD_PERPETUATED_SAND",
-      "source": "RE01"
+      "source": "RE01",
+      "wiki": "https://blasphemous.fandom.com/wiki/Blood_Perpetuated_in_Sand"
     },
     {
       "name": "INCORRUPT_HAND_FRATERNAL_MASTER",
-      "source": "RE02"
+      "source": "RE02",
+      "wiki": "https://blasphemous.fandom.com/wiki/Incorrupt_Hand_of_the_Fraternal_Master"
     },
     {
       "name": "NAIL_UPROOTED_FROM_DIRT",
-      "source": "RE03"
+      "source": "RE03",
+      "wiki": "https://blasphemous.fandom.com/wiki/Nail_Uprooted_from_Dirt"
     },
     {
       "name": "SHROUD_DREAMT_SINS",
-      "source": "RE04"
+      "source": "RE04",
+      "wiki": "https://blasphemous.fandom.com/wiki/Shroud_of_Dreamt_Sins"
     },
     {
       "name": "LINEN_OF_GOLDEN_THREAD",
-      "source": "RE05"
+      "source": "RE05",
+      "wiki": "https://blasphemous.fandom.com/wiki/Linen_of_Golden_Thread"
     },
     {
       "name": "SILVER_LUNG_OF_DOLPHOS",
-      "source": "RE07"
+      "source": "RE07",
+      "wiki": "https://blasphemous.fandom.com/wiki/Silvered_Lung_of_Dolphos"
     },
     {
       "name": "THREE_KNARLED_TONGUES",
-      "source": "RE10"
+      "source": "RE10",
+      "wiki": "https://blasphemous.fandom.com/wiki/Three_Gnarled_Tongues"
     }
   ]
 }
