@@ -1,13 +1,31 @@
-/Backup
-/*.cpl
-/Exe
-/Groupware
-/History
+# .gitignore for WINDEV, WEBDEV and WINDEV Mobile projects
+#
+# WINDEV – WEBDEV – WINDEV Mobile
+Bkp*
+Backup
+Bin
+cache.gestion de sources
+Corbeille
+Exe
+Groupware
+Lastsave
+Sauvegarde
+*.cache
+*.cpl
 *.env
+*.rep
 *.waudit
-*.wdu
-*.WPF
-*.log
 *.wdcoverage
-Folder.ico
+*.wpf
+HstDuree.log
 desktop.ini
+folder.ico
+#
+#WEBDEV
+*\res
+*.awl
+*.awp
+#
+# WINDEV Mobile 
+android
+*.xcode.gen
