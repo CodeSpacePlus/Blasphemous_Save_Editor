@@ -64,6 +64,26 @@
       "name": "ZAMBRA_RESPLENDENT_CROWN",
       "source": "PR16",
       "wiki": "https://blasphemous.fandom.com/wiki/Zambra_to_the_Resplendent_Crown"
+    },
+    {
+      "name": "AUBADE_OF_THE_NAMELESS_GUARDIAN",
+      "source": "PR101",
+      "wiki": "https://blasphemous.fandom.com/wiki/Aubade_of_the_Nameless_Guardian"
+    },
+    {
+      "name": "CANTINA_OF_THE_BLUE_ROSE",
+      "source": "PR201",
+      "wiki": "https://blasphemous.fandom.com/wiki/Cantina_of_the_Blue_Rose"
+    },
+    {
+      "name": "MIRABRAS_OF_THE_RETURNED_TO_PORT",
+      "source": "PR202",
+      "wiki": "https://blasphemous.fandom.com/wiki/Mirabr%C3%A1s_of_the_Return_to_Port"
+    },
+    {
+      "name": "TIRANA_OF_THE_CELESTIAL_BASTION",
+      "source": "PR203",
+      "wiki": "https://blasphemous.fandom.com/wiki/Tirana_of_the_Celestial_Bastion"
     }
   ]
 }
