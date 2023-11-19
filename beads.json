@@ -189,6 +189,66 @@
       "name": "WEIGHT_OF_TRUE_GUILT",
       "source": "RB41",
       "wiki": "https://blasphemous.fandom.com/wiki/Immaculate_Bead"
+    },
+    {
+      "name": "FIRE_ENCLOSED_IN_ENAMEL",
+      "source": "RB108",
+      "wiki": "https://blasphemous.fandom.com/wiki/Fire_Enclosed_in_Enamel"
+    },
+    {
+      "name": "BEAD_OF_GOLD_THREAD",
+      "source": "RB106",
+      "wiki": "https://blasphemous.fandom.com/wiki/Bead_of_Gold_Thread"
+    },
+    {
+      "name": "CLOISTERED_SAPPHIRE",
+      "source": "RB107",
+      "wiki": "https://blasphemous.fandom.com/wiki/Cloistered_Sapphire"
+    },
+    {
+      "name": "CLOISTERED_RUBY",
+      "source": "RB105",
+      "wiki": "https://blasphemous.fandom.com/wiki/Cloistered_Ruby"
+    },
+    {
+      "name": "TOKEN_OF_APPRECIATION",
+      "source": "RB104",
+      "wiki": "https://blasphemous.fandom.com/wiki/Token_of_Appreciation"
+    },
+    {
+      "name": "RELIQUARY_OF_THE_FERVENT_HEART",
+      "source": "RB101",
+      "wiki": "https://blasphemous.fandom.com/wiki/Reliquary_of_the_Fervent_Heart"
+    },
+    {
+      "name": "RELIQUARY_OF_THE_SUFFERING_HEART",
+      "source": "RB102",
+      "wiki": "https://blasphemous.fandom.com/wiki/Reliquary_of_the_Suffering_Heart"
+    },
+    {
+      "name": "RELIQUARY_OF_THE_SORROWFUL_HEART",
+      "source": "RB103",
+      "wiki": "https://blasphemous.fandom.com/wiki/Reliquary_of_the_Sorrowful_Heart"
+    },
+    {
+      "name": "LIGHT_OF_THE_LADY_OF_THE_LAMP",
+      "source": "RB201",
+      "wiki": "https://blasphemous.fandom.com/wiki/Light_of_the_Lady_of_the_Lamp"
+    },
+    {
+      "name": "SCALE_OF_BURNISHED_ALABASTER",
+      "source": "RB202",
+      "wiki": "https://blasphemous.fandom.com/wiki/Scale_of_Burnished_Alabaster"
+    },
+    {
+      "name": "THE_YOUNG_MASONS_WHEEL",
+      "source": "RB203",
+      "wiki": "https://blasphemous.fandom.com/wiki/The_Young_Masons_Wheel"
+    },
+    {
+      "name": "CROWN_OF_GNAWED_IRON",
+      "source": "RB204",
+      "wiki": "https://blasphemous.fandom.com/wiki/Crown_of_Gnawed_Iron"
     }
   ]
 }
